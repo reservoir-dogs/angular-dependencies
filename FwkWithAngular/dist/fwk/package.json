@@ -1,0 +1,23 @@
+{
+  "name": "fwk",
+  "version": "0.0.1",
+  "dependencies": {
+    "tslib": "^2.0.0",
+    "@angular/animations": "11.2.3",
+    "@angular/common": "11.2.3",
+    "@angular/compiler": "11.2.3",
+    "@angular/core": "11.2.3",
+    "@angular/forms": "11.2.3",
+    "@angular/platform-browser": "11.2.3",
+    "@angular/platform-browser-dynamic": "11.2.3",
+    "@angular/router": "11.2.3"
+  },
+  "main": "bundles/fwk.umd.js",
+  "module": "fesm2015/fwk.js",
+  "es2015": "fesm2015/fwk.js",
+  "esm2015": "esm2015/fwk.js",
+  "fesm2015": "fesm2015/fwk.js",
+  "typings": "fwk.d.ts",
+  "metadata": "fwk.metadata.json",
+  "sideEffects": false
+}

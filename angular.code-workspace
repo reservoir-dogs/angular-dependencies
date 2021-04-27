@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "Angular"
+		},
+		{
+			"path": "FwkWithAngular"
+		}
+	],
+	"settings": {
+		"typescript.tsdk": "Angular\\node_modules\\typescript\\lib"
+	}
+}
